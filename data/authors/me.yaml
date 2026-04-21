@@ -12,7 +12,7 @@ postnominals:
   - Mr
   
 status:
-  icon: "☕️"
+  icon:
 role: Predoctoral Researcher
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
@@ -46,6 +46,10 @@ interests:
   - Star Formation
 
 education:
+  - degree: PhD Candidate
+    institution: Universidad de Granada (UGR)
+    start: 2023-12
+    end: 
   - degree: Master's degree in Astrophysics
     institution: Universidad Complutense de Madrid (UCM)
     start: 2022-09
@@ -60,10 +64,7 @@ education:
     institution: Universidad Complutense de Madrid (UCM)
     start: 2017-09
     end: 2022-06
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+
 
 experience:
   - role: Senior AI Research Scientist
