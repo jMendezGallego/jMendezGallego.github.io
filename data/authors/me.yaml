@@ -44,16 +44,18 @@ education:
     institution: Universidad de Granada (UGR)
     start: 2023-12-01
     end: 
+    summary: |
+      Cosmic Ray Production and Acceleration in Star Forming Environments and Its Impact in Galaxy Evolution.
+    #button:
+    #  text: Download dissertation
+    #  url: /resume.pdf
+    #  icon: hero/arrow-down-tray
   - degree: Master's degree in Astrophysics
     institution: Universidad Complutense de Madrid (UCM)
     start: 2022-09-01
     end: 2023-06-01
     summary: |
       Thesis on JWST NIRCam Imaging Photometric Datasets. Studying the SED of High-Redshift Sources in the Epoch of Reionization.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
   - degree: Bachelor's degree in Physics
     institution: Universidad Complutense de Madrid (UCM)
     start: 2017-09-01
@@ -91,8 +93,6 @@ skills:
 
 languages:
   - name: Spanish
-    level: 5
     label: Native
   - name: English
-    level: 4
     label: Fluent
