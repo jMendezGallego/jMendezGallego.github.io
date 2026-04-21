@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Méndez-Gallego'
+title: 'Mendez-Gallego'
 summary: 'Home'
 date: 2022-10-24
 type: landing
@@ -14,7 +14,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: 'J. Méndez-Gallego'
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
