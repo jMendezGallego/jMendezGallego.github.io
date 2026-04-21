@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Javier Méndez-Gallegi
+  display: J. Méndez-Gallego
   given: Javier
   family: Méndez-Gallego
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: ''
 postnominals:
   - Mr
   
 status:
   icon: "☕️"
-role: PhD Student
+role: Predoctoral Researcher
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
