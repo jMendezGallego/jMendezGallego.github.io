@@ -93,12 +93,12 @@ skills:
         level: 3
 
 languages:
-  - name: English
-    level: 4
-    label: Fluent
   - name: Spanish
     level: 5
     label: Native
+  - name: English
+    level: 4
+    label: Fluent
 
 awards:
   - title: Best Paper Award
