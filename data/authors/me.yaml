@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Javier Méndez-Gallegi
+  given: Javier
+  family: Méndez-Gallego
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - Mr
+  
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: PhD Student
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -21,8 +21,8 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Instituto de Astrofísica de Andalucía (IAA-CSIC)
+    url: https://www.iaa.csic.es
 
 links:
   - icon: at-symbol
@@ -40,26 +40,26 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - High-Energy Astronomy
+  - Non-thermal Universe
+  - Protostellar Jets
+  - Star Formation
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Master's degree in Astrophysics
+    institution: Universidad Complutense de Madrid (UCM)
+    start: 2022-09
+    end: 2023-06
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis on JWST NIRCam Imaging Photometric Datasets. Studying the SED of High-Redshift Sources in the Epoch of Reionization.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
+  - degree: Bachelor's degree in Physics
+    institution: Universidad Complutense de Madrid (UCM)
+    start: 2017-09
+    end: 2022-06
   - degree: BS Computer Science
     institution: MIT
     start: 2009-09-01
