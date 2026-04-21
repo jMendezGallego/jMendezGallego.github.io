@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: J. Méndez-Gallego
+  display: Javier Méndez-Gallego
   given: Javier
   family: Méndez-Gallego
   alternate: ''  # Example: 王伟
@@ -45,12 +45,12 @@ interests:
 education:
   - degree: PhD Candidate
     institution: Universidad de Granada (UGR)
-    start: 2023-12
+    start: 2023-12-01
     end: 
   - degree: Master's degree in Astrophysics
     institution: Universidad Complutense de Madrid (UCM)
-    start: 2022-09
-    end: 2023-06
+    start: 2022-09-01
+    end: 2023-06-01
     summary: |
       Thesis on JWST NIRCam Imaging Photometric Datasets. Studying the SED of High-Redshift Sources in the Epoch of Reionization.
     button:
@@ -59,8 +59,8 @@ education:
       icon: hero/arrow-down-tray
   - degree: Bachelor's degree in Physics
     institution: Universidad Complutense de Madrid (UCM)
-    start: 2017-09
-    end: 2022-06
+    start: 2017-09-01
+    end: 2022-06-01
 
 
 experience:
