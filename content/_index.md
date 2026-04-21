@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Mendez-Gallego'
-summary: 'Home'
+title: 'Home'
+summary: ''
 date: 2022-10-24
 type: landing
 
